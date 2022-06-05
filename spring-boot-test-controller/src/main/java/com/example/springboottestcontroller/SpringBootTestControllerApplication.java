@@ -1,0 +1,13 @@
+package com.example.springboottestcontroller;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringBootTestControllerApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringBootTestControllerApplication.class, args);
+    }
+
+}
